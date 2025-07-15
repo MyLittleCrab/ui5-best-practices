@@ -1,6 +1,7 @@
 # UI5 Best Practices
 
 This repository contains a collection of best practices for SAP UI5 development. Materials are available in both Russian and English. The main goal is to provide up-to-date recommendations based on personal experience, modern approaches, and [DSAG UI5 Best Practice](https://1dsag.github.io/UI5-Best-Practice/).
+
 ---
 
 # Хорошие практики для ui5 разработки
