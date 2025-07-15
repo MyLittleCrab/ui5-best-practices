@@ -65,3 +65,5 @@ This repository contains a collection of best practices for SAP UI5 development.
 
 ## To Do:
 - Прохождение код ревью
+
+Same page on my personal blog:  https://nosoff.info/blogposts/production/ui5-best-practices/index.html
